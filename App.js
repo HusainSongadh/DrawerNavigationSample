@@ -47,7 +47,7 @@ export default function App() {
           />
         </Drawer.Navigator>
       </NavigationContainer> */}
-
+      console.log("Commit check");
       <NavigationContainer>
         <BottomTab.Navigator
           screenOptions={{
